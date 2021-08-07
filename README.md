@@ -9,4 +9,5 @@ Programming Language: Python
 Libraries: Numpy, Pandas, Sklearn, matplotlib
 
 -> Developed a machine learning model by testing out Linear Regression, Lasso, and Decision Tree algorithms and came to conlcusion that the optimum model is achieved by using Linear regression. 
+
 -> Achieved an accuracy of 86% using Linear regression algorithm.
